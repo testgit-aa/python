@@ -11,11 +11,9 @@ so if out dict contain the keys (1,10), (30,34), and we run:
 
 we want to have the value of (1,10)
 
-
-EXTENSION:
+furthermore;
 
 when you try to add a range that overlaps with an existing range, for example
-trying to add (5,11) when we have (1,10) overwrite the 
-overlapping span.
+trying to add (5,11) when we have (1,10), overwrite the overlapping span.
 
 """"

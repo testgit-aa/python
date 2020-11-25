@@ -8,7 +8,6 @@ see tests/ for more information.
 """
 
 
-
 def catch_all_expeptions():
     pass
 
