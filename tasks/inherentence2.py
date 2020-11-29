@@ -1,7 +1,26 @@
 
 
-# multiple inherentence
+"""
+Change the class CustomParser so that the pipe_parse() runs.
 
-class boxer:
+restrictions:
+1) you are not allowed to change anything in the classes PosTagger and DependencyParser
 
-    def punch(self)
+"""
+
+class PosTagger:
+
+    def tag_pos(self):
+        return "tagging POS"
+    
+
+class DependencyParser:
+
+    def parse_dep(self):
+        return "parsing dependencies"
+
+
+class CustomParser:
+
+    def pipe_parse(self):
+        return self.tag_pos(), self.parse_dep()

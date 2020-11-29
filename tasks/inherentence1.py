@@ -1,43 +1,38 @@
 
 
 """
-Create the three following classes:
+Create the following classes:
 
 1: Animal
 2: Fish
 3: Tuna
+4: Mammal
+5: Dolphin
 
-Animal is the parent class
-Fish is the child class of Animal
-and Tuna is the child class of Animal
+make sure the following will run:
 
-all Animals have to have two functions and two variables:
+>> billy = Tuna()
+>> billy.live -> "sea"
+>> billiy.predator -> True
+>> billy.cat -> "fish"
+>> biliy.water_type() -> "freashwater"
+>> biliy.reproduce() -> "laying eggs"
 
-# varibles:
-# cat  <- specifiy the category. ( for Animal category can be "living thing", for Fish it should be "Animal" and for Tuna "Fish")
-# live <- where it lives ("everywhere", "land", "water" etc, its arbitrary )
+>> steve = Dolphin()
+>> steve.live -> "sea"
+>> steve.predator -> True
+>> steve.cat -> "mammal"
+>> steve.reproduce() -> "giving birth"
 
-# functions:
-# move() 
-# eat()
+make sure following will fail:
+>> steve = fish()
 
+retrictions:
 
-Tuna should have two variables:
-
-varibles:
-cat  <- specifiy the category. ( for Animal category can be "living thing", for Fish it should be "Animal" and for Tuna "Fish")
-live <- where it lives ("everywhere", "land", "water" etc, its arbitrary )
-
-And two functions:
-
-functions (just make this return a string, e.g. "by swimming", or "seaweed")
-move() 
-eat()
-
-Now these are the grading rules:
-
-1) you should not be able to create an object that is only an animal or fish
-2) you should fill in the variables and functions as soon as possible in the hierarchy.
-3) 
+1) you should not be able to create an object that is only an animal or fish, it has to be a individual species (e.g. tuna)
+2) you should fill in the variables and functions as soon as possible in the hierarchy, i.e. variable "cat" 
+should not be defined in Dolphin
+3) make sure that creation of a class without category functions are impossible, e.g. throws and error. I.e. you should not
+be able to create a species of fish, e.g. salmon without specifying water_type()
 """
 

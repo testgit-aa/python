@@ -14,17 +14,6 @@ restrictions:
 
 1) you can only add 4 characters!
 
-
-EXTENSION:
-make precious_variable accessable by 
-
->> needs_protection.precious_variable
-
-but make it impossible to change the value of the variable. e.g. the following code should 
-throw an error:
-
->> needs_protection.precious_variable = "something else"
-
 """
 
 class ProtectMe:
