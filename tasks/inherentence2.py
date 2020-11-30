@@ -4,7 +4,8 @@
 Change the class CustomParser so that the pipe_parse() runs.
 
 restrictions:
-1) you are not allowed to change anything in the classes PosTagger and DependencyParser
+1)  you are not allowed to change anything in the classes PosTagger and DependencyParser. You are neither allowed
+    to change CustomParser.pipe_parse()
 
 """
 

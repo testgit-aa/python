@@ -1,4 +1,0 @@
-
-
-# 
-def memmap_data()

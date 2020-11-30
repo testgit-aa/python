@@ -3,9 +3,11 @@
 def masked_mean(matrix, mask):
     """
     given a 4D matrix A and a 3D mask B return a 3D matrix C where the third and last dimension 
-    is the average of the third dimension in 4D.
+    is the average over the third dimension in 4D.
 
-    lets say we have a matrix where with the dims are (NR DOCUMENTS, NR SENTENCE, NR WORDS, WORD FEATURE DIM),
+    lets say we have a matrix where with the dims are (NR DOCUMENTS, NR SENTENCE, NR WORDS, WORD FEATURE DIM), 
+    (WORD FEATURE DIM is the length of the feature vectors we use to represent words)
+
     example:
     M = [
         [[w1,w2,pad,pad],[w1,w2,w3,pad]],
@@ -33,7 +35,7 @@ def masked_mean(matrix, mask):
     sure we are averaging correctly.
 
     restrictions
-    1) you are not allowed to use any loops instead you are suppose to to matrix operations
+    1) you are not allowed to use any loops instead you are suppose to use matrix operations
 
     """
     pass

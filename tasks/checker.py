@@ -7,7 +7,7 @@ def what_is_this(unkown):
     given a variable it should, 
     
     if its a function: 
-        return "fucntion"
+        return "function"
     
     if its a class object:
         return "class":
@@ -15,15 +15,13 @@ def what_is_this(unkown):
     else:
         return the type of the varible
 
-    e.g.
+    examples:
 
-    what_is_this(1) -> int
+    >> what_is_this(1) -> int
 
-
-    def f():
-        pass
-
-    what_is_this(f) -> "function"
+    >> def f():
+    >>     pass
+    >> what_is_this(f) -> "function"
 
     """
     pass

@@ -1,11 +1,11 @@
 
 
 """
-Add depth to the current package stucture (tasks) so that the import statement bellow words.
+Add depth to the current package stucture (tasks) so that the import statement below works.
 
 restrictions:
 1) shallow, deeper, deepest, too_deep should all be folders
-2) deepseafish is the follwoing functions:
+2) deepseafish is the following function:
 
     def deepseafish():
         return "bluop  bluop bluop"
