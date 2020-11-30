@@ -14,8 +14,9 @@ NOTE! even if only one person can do the above, please do it together in the gro
 3)  read instructions in the task script, solve it
 ( 3.5) ask me questions if stuck)
 5)  commit solution to branch for each task. IMPORTANT! make sure that EACH member of the group makes at least ONE commit!
-6)  submit assignment by creating a pull request, requesting a merge of your feature branch to the main branch or the main repo, not your fork repo.
+6)  create a pull request, requesting a merge of your feature branch to the main branch or the main repo, not your fork repo.
 (+ Make sure you do not commit any script or file that is not in the original repo.)
+7) go to Exercise 3: Advanced Topics in Python on canvas and submitt the link to your pull request
 
 Each group will have to solve their alloted tasks (see below). Task are divided into two groups G and VG. The G group
 consist of some easy task and one a bit harder and the VG group will be one hard task.
