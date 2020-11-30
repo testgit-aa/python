@@ -3,6 +3,7 @@
 In the task folder you will find a list of scripts. Each script is equivalent to one task. Your assignment is to
 solve a set of G tasks and a VG task. To solve a task you follow the instructions in the comment in each script.
 
+
 ## Detailed Instructions:
 
 
@@ -34,85 +35,85 @@ NOTE! tasks are between groups do not necessarily cover the same concepts so i s
 
 
 
-Group 1:
-G:
-    dict_comp1.py
-    collections1.py
-    data_generator.py
-VG:
-    recursion.py
+**Group 1:**
+* G
+    * dict_comp1.py
+    * collections1.py
+    * data_generator.py
+* VG
+    * recursion.py
 
 
-Group 2:
-G:
-    dict_comp2.py
-    inherentence2.py
-    parse_xml.py
-VG:
-    masked_mean.py
+**Group 2:**
+* G
+    * dict_comp2.py
+    * inherentence2.py
+    * parse_xml.py
+* VG
+   * masked_mean.py
 
 
-Group 3:
-G:
-    list_comp1.py
-    exceptions.py
-    data_generator.py
-VG:
-    range_dict.py
+**Group 3:**
+* G
+    * list_comp1.py
+    * exceptions.py
+    * data_generator.py
+* VG
+    * range_dict.py
 
 
-Group 4:
-G:
-    list_comp2.py
-    import.py
-    load_json.py
-VG:
-    inherentence1.py
+**Group 4:**
+* G
+    * list_comp2.py
+    * import.py
+    * load_json.py
+* VG
+    * inherentence1.py
 
 
-Group 5:
-G:
-    list_comp3.py
-    pad.py
-    parse_xml.py
-VG:
-    recursion.py
+**Group 5:**
+* G
+    * list_comp3.py
+    * pad.py
+    * parse_xml.py
+* VG
+    * recursion.py
 
 
-Group 6:
-G:
-    list_comp1.py
-    checker.py
-    data_generator.py
-VG:
-    masked_mean.py
+**Group 6:**
+* G
+    * list_comp1.py
+    * checker.py
+    * data_generator.py
+* VG
+    * masked_mean.py
 
 
-Group 7:
-G:
-    list_comp2.py
-    import.py
-    inherentence2.py
-VG:
-    range_dict.py
+**Group 7:**
+* G
+    * list_comp2.py
+    * import.py
+    * inherentence2.py
+* VG
+    * range_dict.py
 
 
 
-Group 8:
-G:
-    dict_comp2.py
-    pad.py
-    load_json.py
+**Group 8**
+* G
+    * dict_comp2.py
+    * pad.py
+    * load_json.py
 
-VG:
-    range_dict.py
+* VG
+    * range_dict.py
 
 
-Group 9:
-G:
-    dict_comp1.py
-    collections1.py
-    data_generator.py
-VG:
-    inherentence1.py
+**Group 9:**
+* G
+    * dict_comp1.py
+    * collections1.py
+    * data_generator.py
+* VG
+    * inherentence1.py
 
