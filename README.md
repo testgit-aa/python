@@ -7,15 +7,15 @@ solve a set of G tasks and a VG task. To solve a task you follow the instruction
 ## Detailed Instructions:
 
 
-1)  One in your group forks the repo. This will be the "copy" of the orignal repo you will be working on in the group
-2) The one who forked the repo should invite the other group member to the repo
+1)  One in your group forks this repo. The fork will be like a "copy" of this repo. 
+2) The one who forked the repo should invite the other group member to the fork repo
 3)  make a new branch called group_X where X is your group number.
 NOTE! even if only one person can do the above, please do it together in the group by sharing screen.
 3)  read instructions in the task script, solve it
 ( 3.5) ask me questions if stuck)
 5)  commit solution to branch for each task. IMPORTANT! make sure that EACH member of the group makes at least ONE commit!
-6)  submit assignment by creating a pull request, requesting a merge of your feature branch to the main branch or the main repo, not your fork.
-+) Make sure you do not commit any script or file that is not in the original repo.
+6)  submit assignment by creating a pull request, requesting a merge of your feature branch to the main branch or the main repo, not your fork repo.
+(+ Make sure you do not commit any script or file that is not in the original repo.)
 
 Each group will have to solve their alloted tasks (see below). Task are divided into two groups G and VG. The G group
 consist of some easy task and one a bit harder and the VG group will be one hard task.
@@ -31,7 +31,7 @@ In addition to solving the tasks you need to do the following to be able to pass
 
 You will be expected to solve the task as a group
 
-NOTE! tasks are between groups do not necessarily cover the same concepts so i strongly suggest that you after submission check out the solutions to the task that you did not get.
+NOTE! tasks between groups do not necessarily cover the same concepts so i strongly suggest that you after submission check out the solutions to the task that you did not get alloted.
 
 
 
