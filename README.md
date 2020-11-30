@@ -3,6 +3,9 @@
 In the task folder you will find a list of scripts. Each script is equivalent to one task. Your assignment is to
 solve a set of G tasks and a VG task. To solve a task you follow the instructions in the comment in each script.
 
+Task should be solved in groups. You are divided into groups during the first meeting which will take place on the course Zoom (see main page for the course).
+For those who do not attend the first meeting, send me a message and I'll create new groups with students that did not attend the first meeting.
+
 
 ## Detailed Instructions:
 
